@@ -1,0 +1,42 @@
+{
+    "userLogin": [
+        true
+    ],
+    "getVenue": [
+        {
+            "venueName": "活動中心",
+            "venueLocation": "活動中心",
+            "venueID": "8f3b414f-aa31-51b4-a5fa-cce2036819d1",
+            "venueDetails": "clean duck arrive birds empty topic definition shake bat dig crowd sides port brave became younger everything combine kitchen hurry final science hurried magic",
+            "availability": true
+        },
+        {
+            "venueName": "活動中心",
+            "venueLocation": "活動中心",
+            "venueID": "6179a46d-c6e9-5426-a52c-c0e95c67da27",
+            "venueDetails": "involved alone hurried date instrument characteristic join dangerous hole still tea belt gun practice did were neck escape average eventually flower order knowledge represent",
+            "availability":false
+        },
+        {
+            "venueName": "活動中心",
+            "venueLocation": "活動中心",
+            "venueID": "a5355ff5-4843-5070-8032-47718da1fb96",
+            "venueDetails": "mind parallel fat essential excited return wrapped slowly pine pencil during turn alone guide slipped giant effect should fully edge whenever bell spite truth",
+            "availability": true
+        },
+        {
+            "venueName": "活動中心",
+            "venueLocation": "活動中心",
+            "venueID": "59e5f27b-f3c3-5cf3-9649-90e59525bfa0",
+            "venueDetails": "smallest bottle known chair parts close higher wore establish production atom jump shut worth belt produce discuss slip rich find upper individual death tip",
+            "availability": true
+        },
+        {
+            "venueName": "活動中心",
+            "venueLocation": "活動中心",
+            "venueID": "db262265-b871-548d-b071-2d15da510d3d",
+            "venueDetails": "dozen against good gentle tune his reach passage heavy egg back smoke till definition subject secret branch general list worth fine numeral letter usually",
+            "availability": true
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --light-background:white;
+    --light-color:black;
+    --light-hover:theme('colors.gray.500');
+
+    --dark-background:#000000;
+    --dark-color:#EFFFE9;
+
+    --header-height:64px;
+    --bottom-height:80px;
+}
+
+@layer utilities {
+    /* Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .no-scrollbar {
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+    }
+}
+
+body {
+  orientation: portrait;
+}
